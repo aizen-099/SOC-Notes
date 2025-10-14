@@ -36,3 +36,20 @@ IT companies deals with a lot of sensitive information , such as customer data ,
 * SOC Manager 
 
 ---
+
+**SOC Structrue**
+
+* Read Team,
+* Blue Team,
+* Purple Team,
+* Incident Response Team
+
+---
+
+**Types of Hackers**
+
+* White Hat Hacker,
+* Grey Hat Hacker,
+* Black Hat Hacker.
+
+---
