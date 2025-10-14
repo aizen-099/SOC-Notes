@@ -56,13 +56,13 @@ IT companies deals with a lot of sensitive information , such as customer data ,
 
 **What are IDS & IPS**
 
-** IDS Stands for Intrution Detection System
-** IPS Stands for Intrution Prevention System
+    IDS Stands for Intrution Detection System
+    IPS Stands for Intrution Prevention System
 
 ---
 
 **SIEM**
 
-** SIEM is like a central monitoring system. It collects from all over the network, analyses it to spot anything wrong anything suspicious, and alerts the security team if something look wrong.
+SIEM is like a central monitoring system. It collects from all over the network, analyses it to spot anything wrong anything suspicious, and alerts the security team if something look wrong.
 
 ---
