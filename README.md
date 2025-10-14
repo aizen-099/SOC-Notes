@@ -56,8 +56,9 @@ IT companies deals with a lot of sensitive information , such as customer data ,
 
 **What are IDS & IPS**
 
-    IDS Stands for Intrution Detection System
-    IPS Stands for Intrution Prevention System
+IDS Stands for Intrution Detection System
+    --
+IPS Stands for Intrution Prevention System
 
 ---
 
