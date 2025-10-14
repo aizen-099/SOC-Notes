@@ -17,3 +17,7 @@ IT companies deals with a lot of sensitive information , such as customer data ,
 |   Watches Over the Company --- Stop Threats in Their Tracks --- Investigates Problems --- Keeps the Company Safe |
 
 ---
+
+**How Does a SOC work?**
+
+/|\  CyberSecurity experts --  Handle any security incident -- Monitor company's digital environment  /|\
