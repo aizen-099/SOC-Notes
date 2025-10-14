@@ -26,13 +26,13 @@ IT companies deals with a lot of sensitive information , such as customer data ,
 
 **Roles**
 
-* Security Analyst ␣␣
-* Security Engineer ␣␣
-* Security Architect ␣␣
-* Incident Responder ␣␣
-* Penetration Tester ␣␣
-* Security Consultant ␣␣
-* Chief Information Security Officer(CISO) ␣␣
+* Security Analyst 
+* Security Engineer 
+* Security Architect 
+* Incident Responder 
+* Penetration Tester 
+* Security Consultant 
+* Chief Information Security Officer(CISO) 
 * SOC Manager 
 
 ---
