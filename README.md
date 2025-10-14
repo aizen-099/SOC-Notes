@@ -14,9 +14,6 @@ IT companies deals with a lot of sensitive information , such as customer data ,
 
 **What do they do**
 
-1- Watches Over the Company 
-2- Stop Threats in Their Tracks
-3- Investigates Problems
-3- Keeps the Company Safe
+|   Watches Over the Company --- Stop Threats in Their Tracks --- Investigates Problems --- Keeps the Company Safe |
 
 ---
