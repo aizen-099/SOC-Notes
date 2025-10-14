@@ -21,3 +21,18 @@ IT companies deals with a lot of sensitive information , such as customer data ,
 **How Does a SOC work?**
 
 /|\  CyberSecurity experts --  Handle any security incident -- Monitor company's digital environment  /|\
+
+---
+
+**Roles**
+
+* Security Analyst ␣␣
+* Security Engineer ␣␣
+* Security Architect ␣␣
+* Incident Responder ␣␣
+* Penetration Tester ␣␣
+* Security Consultant ␣␣
+* Chief Information Security Officer(CISO) ␣␣
+* SOC Manager 
+
+---
