@@ -75,4 +75,36 @@ How An IP Address works?
 * Sending and Receiving data
 * Identifying Devices
   
+---
 
+**DNS**
+
+What does DNS does?
+
+* DNS (Domain Name System) acts like the internet’s phonebook; it translates domain names like 'google.com' into IP addresses like '142.250.182.14' so your device knows where to send the request.
+
+---
+
+**Phishing**
+
+* A cyberattack where scammers try to trick you into giving personal info (like passwords or card details) by pretending to be a legit source, like a bank or website, usually through fake emails or links.
+
+---
+
+**OSINT**
+
+* OSINT stands for Open-Source Intelligence. It means collecting info from publicly available sources (like websites, social media, forums, or news) to analyze or investigate something — often used in cybersecurity, hacking, or digital forensics.
+
+---
+
+**LINUX**
+
+* Linux is an open-source OS based on Unix that manages hardware and lets users run programs securely and efficiently. It’s known for being stable, customizable, and highly secure.
+
+* It has many versions like Ubuntu, Kali, and Arch made for different needs. Developers love it for its terminal control, flexibility, and strong networking tools.
+
+---
+
+**MALWARE** 
+
+* Malware is malicious software designed to damage, steal, or take control of devices and data, common types are viruses, worms, trojans, ransomware, and spyware; they spread via downloads, phishing, or exploits and can steal info, encrypt files, or recruit your device into a botnet.
