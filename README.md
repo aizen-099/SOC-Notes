@@ -67,3 +67,12 @@ IPS Stands for Intrution Prevention System
 SIEM is like a central monitoring system. It collects from all over the network, analyses it to spot anything wrong anything suspicious, and alerts the security team if something look wrong.
 
 ---
+
+**IP Address**
+
+How An IP Address works?
+
+* Sending and Receiving data
+* Identifying Devices
+  
+
